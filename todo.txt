@@ -1,0 +1,35 @@
+//CUSTOMER
+Yeni Müşteri Kayıt:
+Şirket Adı (textbox)
+Şirket Uzun Adı (textbox)
+İstasyon Kodu
+Bayi Kodu
+İlgili Kişi
+Telefon
+Adres
+İl (Çoktan seçmeli)
+
+//INVENTORY
+Yeni Envanter:
+Seri Numarası
+Tanım / Açıklama
+Kullanan Müşteri (Müşteri listesinden seçilmeli)
+Ürün Tipi (çoktan seçmeli, değerler bir tablodan gelebilir, biz manual güncelleriz)
+Ürün Statüsü (çoktan seçmeli)
+Kurulan Tarih
+Açıklama
+
+
+
+//TICKET
+Yeni Kayıt;
+Müşteri Adı (Müşteri listesinden kolayca seçilebilme)
+Konu:
+Yetkili Kişi:
+Talep Tipi: (Çoktan Seçmeli)
+Talep Açıklaması
+Telefon
+Adres
+Talep Statüsü : (Çoktan seçmeli, Açık, Kapalı, Beklemede vb)
+Lokasyon (il, çoktan seçmeli)
+İş ortağı (İl, çoktan seçmeli) (Daha sonra bu iş ortağı ilinden yola çıkarak iş ortakları ile ilgili bir geliştirme ayrıca isteyeceğiz, şimdi acil değil)
